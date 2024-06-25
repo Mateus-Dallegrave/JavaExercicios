@@ -1,4 +1,4 @@
-package Collections;
+package collections.domain;
 
 public class Carro implements Comparable<Carro>{
 

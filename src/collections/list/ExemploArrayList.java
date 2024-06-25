@@ -1,4 +1,6 @@
-package Collections;
+package collections.list;
+
+import collections.domain.Carro;
 
 import java.util.ArrayList;
 import java.util.Collections;
